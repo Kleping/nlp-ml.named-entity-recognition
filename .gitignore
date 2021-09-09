@@ -1,0 +1,14 @@
+__pycache__/
+.idea/
+venv/
+
+*.pb
+*.h5
+*.tflite
+*.txt
+*.csv
+*.model
+*.vocab
+*.config
+*.conllu
+*.json
